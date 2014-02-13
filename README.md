@@ -1,3 +1,5 @@
+A fork of Zenburn for Xcode that uses a 12 point font.
+
 ![Zenburn](https://img.skitch.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg)
 
 1. Create folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ if it is not there.
